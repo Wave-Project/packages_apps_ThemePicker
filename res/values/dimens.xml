@@ -27,7 +27,7 @@
     <dimen name="component_preview_page_bottom_margin">16dp</dimen>
 
     <!-- Dimensions for the customization option tiles -->
-    <dimen name="options_container_height">120dp</dimen>
+    <dimen name="options_container_height">148dp</dimen>
     <dimen name="options_container_width">0dp</dimen>
     <dimen name="option_tile_width">88dp</dimen>
     <dimen name="option_icon_size">16dp</dimen>
